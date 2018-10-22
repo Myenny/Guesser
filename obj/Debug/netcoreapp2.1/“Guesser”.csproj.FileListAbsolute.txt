@@ -1,0 +1,11 @@
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/bin/Debug/netcoreapp2.1/“Guesser”.deps.json
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/bin/Debug/netcoreapp2.1/“Guesser”.runtimeconfig.json
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/bin/Debug/netcoreapp2.1/“Guesser”.runtimeconfig.dev.json
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/bin/Debug/netcoreapp2.1/“Guesser”.dll
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/bin/Debug/netcoreapp2.1/“Guesser”.pdb
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.csprojAssemblyReference.cache
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.csproj.CoreCompileInputs.cache
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.AssemblyInfoInputs.cache
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.AssemblyInfo.cs
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.dll
+/Users/my/sdg/unit-3/homework/number-guesser/Guesser/obj/Debug/netcoreapp2.1/“Guesser”.pdb
