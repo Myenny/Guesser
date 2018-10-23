@@ -8,15 +8,12 @@ namespace _Guesser_
     {
       var min = 1;
       var max = 100;
-      //   var currentPick = pick;
+
       var pick = (max + min) / 2;
       var userAnswer = "";
 
-      // set a min/max
       System.Console.WriteLine($"Think of a number between {min} and {max}");
-      // tell user to pick #
-      // pick the first guess of user #
-      // ask if higher or lower?
+
       while (userAnswer != "equal")
       {
         System.Console.WriteLine($"Is your number higher or lower or equal to {pick}");
@@ -36,8 +33,6 @@ namespace _Guesser_
           System.Console.WriteLine("VICTORY");
         }
       }
-
-      // reset the number range
     }
   }
 }
